@@ -1,7 +1,7 @@
 # Thenat
 
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,ts,express,nestjs,rust&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,ts,nestjs,rust&perline=6)](https://skillicons.dev)
 
 # Github Stats
 
