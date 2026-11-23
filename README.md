@@ -5,6 +5,6 @@
 
 # Github Stats
 
-![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=thenatx&layout=compact&theme=tokyonight&hide=CSS)
-
-![ ](https://github-readme-stats.vercel.app/api?username=thenatx&show_icons=true&theme=tokyonight)
+[![ ](https://github-stats-extended.vercel.app/api/top-langs?username=thenatx&layout=compact&langs_count=5&hide_values=true&theme=catppuccin_mocha&hide=css,html)](https://github-stats-extended.vercel.app/api/top-langs?username=thenatx&layout=compact&langs_count=5&hide_values=true&theme=catppuccin_mocha&hide=css,html)
+###
+[![ ](https://github-stats-extended.vercel.app/api?username=thenatx&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=thenatx&include_all_commits=true&theme=catppuccin_mocha)
